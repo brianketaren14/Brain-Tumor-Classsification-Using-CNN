@@ -8,7 +8,7 @@ Data Source : https://www.kaggle.com/datasets/denizkavi1/brain-tumor
 
 ## Brain Tumor Classification
 Brain tumor classification refers to the process of identifying the type of tumor based on the characteristics detected in medical images. 
-This classification is important for diagnosis and determining appropriate treatment strategies. Brain tumors are generally classified into several categories, such as glioma, meningioma, and metastasis.
+This classification is important for diagnosis and determining appropriate treatment strategies. Brain tumors are generally classified into several categories, such as glioma, meningioma, and Pituitary.
 
 ### Challenges in Classification
 1. Variability in Tumor Appearance: Brain tumors can vary significantly in shape, size, and intensity on medical images.
