@@ -4,7 +4,7 @@ Brain tumors are abnormal growths of cells in the brain that can be benign (non-
 Early detection and accurate classification of brain tumors are essential for proper treatment planning and improved patient survival rates.
 In recent decades, advances in medical imaging techniques, such as Magnetic Resonance Imaging (MRI) and Computed Tomography (CT), have provided rich data for medical analysis.
 
-Data Source : https://www.kaggle.com/datasets/denizkavi1/brain-tumor
+Data Source : https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?select=Training
 
 ## Brain Tumor Classification
 Brain tumor classification refers to the process of identifying the type of tumor based on the characteristics detected in medical images. 
